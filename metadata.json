@@ -1,0 +1,5 @@
+{
+  "name": "Node.js MySQL Backend",
+  "description": "A production-ready Node.js Express server connected to a MySQL database. Provides a REST API for project and task management.",
+  "requestFramePermissions": []
+}
